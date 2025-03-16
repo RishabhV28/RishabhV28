@@ -8,3 +8,6 @@
 - Looking for **opportunities** to connect and make some friends 🤝
 - Art nerd (films,books,paintings,fashion) and a gymgoer 🏃‍♂️🎞️📖🎨
 - Recreational writer 🖊️
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,python,figma,linkedin,github)](https://skillicons.dev)
