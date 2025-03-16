@@ -10,4 +10,4 @@
 - Recreational writer 🖊️
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,python,figma,linkedin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,vite,python,figma,linkedin,github,mysql)](https://skillicons.dev)
