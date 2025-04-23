@@ -10,4 +10,11 @@
 - Recreational writer 🖊️
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,supabase,react,vite,python,cpp,java,mysql,figma,linkedin,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,supabase,react,vite,python,cpp,java,mysql,figma,linkedin,github,postman)](https://skillicons.dev)
+
+## Few achievements
+
+- Top 20 among 300 teams at AceHack 4.0, A national level Hackathon
+- Top 100 teams among 100k registrations at Code Kshetra 2.0
+- Top 5000 among 25k at BuildWithIndia
+- Mentored a group of juniors to get top 200 spot among 25k at BuildWithIndia
