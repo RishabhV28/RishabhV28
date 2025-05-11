@@ -14,7 +14,7 @@
 - Recreational writer 🖊️
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,supabase,react,vite,python,cpp,java,mysql,figma,linkedin,github,postman,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,mongodb,supabase,react,vite,bootstrap,python,cpp,java,mysql,figma,linkedin,github,postman,npm)](https://skillicons.dev)
 
 ## Few achievements
 
