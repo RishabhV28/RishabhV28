@@ -1,10 +1,13 @@
 
+![cover](https://github.com/user-attachments/assets/f59ed998-4e70-4e25-ac2a-0213b40c4750)
+
+
 ## Heyyyy 
 
 - I am a learning **software engineer** currently in third year of my university 🎓🧑‍💻
 - Very much interested in ✨**Web Dev**✨
 - Regular **DSA** practitioner 🧠
-- **Hackathon** Enthusiast, leader of my team 💻
+- **Hackathon** Enthusiast, leader of my team (8 Hackathons!!!) 💻
 - **Deputy Head** at the [technical society](https://www.linkedin.com/company/hashtag-jemtec-official/posts/?feedView=all) of my college 💪
 - Looking for **opportunities** to [connect](https://www.linkedin.com/in/rishabh-verma-9a4997262/) and make some friends 🤝
 - Art nerd (films,books,paintings,fashion) and a gymgoer 🏃‍♂️🎞️📖🎨
