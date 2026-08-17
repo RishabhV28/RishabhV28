@@ -9,13 +9,14 @@
 ## Heyyyy 
 
 
-- I am a learning **software engineer** currently in third year of my university 🎓🧑‍💻
-- Very much interested in ✨**Web Dev**✨
+- I am a **software engineer** looking to start working in the industry 🎓🧑‍💻
+- Very much interested in ✨**Web Dev** and **UI UX Design**✨
+- View my [Design Portfolio](https://www.behance.net/Rishabh-Verma#)
 - Regular **DSA** practitioner 🧠
-- **Hackathon** Enthusiast, leader of my team (8 Hackathons!!!) 💻
-- **Deputy Head** at the [technical society](https://www.linkedin.com/company/hashtag-jemtec-official/posts/?feedView=all) of my college 💪
+- Previously **Software Developer Intern** at Translabs Technologies and **Design Intern** at Pearl Lemon LLC
+- Ex **Deputy Head** at the [technical society](https://www.linkedin.com/company/hashtag-jemtec-official/posts/?feedView=all) of my college 💪
 - Looking for **opportunities** to [connect](https://www.linkedin.com/in/rishabh-verma-9a4997262/) and make some friends 🤝
-- Art nerd (films,books,paintings,fashion) and a gymgoer 🏃‍♂️🎞️📖🎨
+- Art nerd (films,books,paintings,fashion), I run [M!ME](https://www.instagram.com/mimeartclub/) and a gymgoer 🏃‍♂️🎞️📖🎨
 - Recreational writer 🖊️
 
 ## Tech Stack
